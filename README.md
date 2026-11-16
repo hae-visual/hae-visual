@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kiet 👋</h1>
+<h1 align="center">Hi, I'm Michael 👋</h1>
 
 <p align="center">
   Second-year student in Da Nang, Vietnam · I build small tools that help me learn faster.
@@ -20,8 +20,6 @@
 | Project | What it is | Stack |
 |---|---|---|
 | [**字引 Jibiki**](https://github.com/hae-visual/jibiki) | A local web app for learning Japanese: draw a kanji to look it up, check handwriting against KanjiVG stroke data, study Anki cards from the browser, and take original Minna no Nihongo N5/N4 tests and drills. | Python · JavaScript · AnkiConnect |
-| [**cpp-data-structures**](https://github.com/hae-visual/cpp-data-structures) | Notes on C++ STL data structures for LeetCode/NeetCode: what each one is, when to use it, common functions and their complexity. | C++ |
-| [**neetcode-submissions**](https://github.com/hae-visual/neetcode-submissions) | My accepted NeetCode solutions, synced automatically. | C++ |
 | PBL2 · Bookstore management *(team project)* | Console app in C++ OOP for books, customers, invoices and stock, built in a team of two with hand-written containers and file storage. | C++ |
 
 ### 🌱 Currently

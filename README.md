@@ -22,12 +22,6 @@
 | [**字引 Jibiki**](https://github.com/hae-visual/jibiki) | A local web app for learning Japanese: draw a kanji to look it up, check handwriting against KanjiVG stroke data, study Anki cards from the browser, and take original Minna no Nihongo N5/N4 tests and drills. | Python · JavaScript · AnkiConnect |
 | PBL2 · Bookstore management *(team project)* | Console app in C++ OOP for books, customers, invoices and stock, built in a team of two with hand-written containers and file storage. | C++ |
 
-### 🌱 Currently
-
-- 🎌 Japanese: *Minna no Nihongo II* and *Kanji Look and Learn*, aiming for JLPT N4
-- 📘 English: TOEIC vocabulary
-- 🧠 Algorithms: working through NeetCode 150 in C++
-
 ### 📫 Find me
 
 Open an issue on any of my repos, or check what I'm learning in [Jibiki](https://github.com/hae-visual/jibiki).

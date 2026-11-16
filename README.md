@@ -26,8 +26,8 @@
 
 ### 🌱 Currently
 
-- 🇯🇵 Japanese: *Minna no Nihongo II* and *Kanji Look and Learn*, aiming for JLPT N4
-- 🇬🇧 English: TOEIC vocabulary
+- 🎌 Japanese: *Minna no Nihongo II* and *Kanji Look and Learn*, aiming for JLPT N4
+- 📘 English: TOEIC vocabulary
 - 🧠 Algorithms: working through NeetCode 150 in C++
 
 ### 📫 Find me

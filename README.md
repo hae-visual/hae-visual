@@ -20,7 +20,7 @@
 | Project | What it is | Stack |
 |---|---|---|
 | [**字引 Jibiki**](https://github.com/hae-visual/jibiki) | A local web app for learning Japanese: draw a kanji to look it up, check handwriting against KanjiVG stroke data, study Anki cards from the browser, and take original Minna no Nihongo N5/N4 tests and drills. | Python · JavaScript · AnkiConnect |
-| PBL2 · Bookstore management *(team project)* | Console app in C++ OOP for books, customers, invoices and stock, built in a team of two with hand-written containers and file storage. | C++ |
+
 
 ### 📫 Find me
 
